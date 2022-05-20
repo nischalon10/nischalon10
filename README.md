@@ -6,9 +6,9 @@
 2. I am a vegetarian 
 3. I sing better in the bathroom
 4. I switch between tea and coffee
-5. I hate people who use light theme^*^
+5. I hate people who use light theme*
 
-    `* = Not really!`
+    `* = Just Kidding!`
 
 <hr/>
 
