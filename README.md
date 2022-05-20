@@ -6,19 +6,23 @@
 2. I am a vegetarian 
 3. I sing better in the bathroom
 4. I switch between tea and coffee
-5. I hate people who use light theme `jk`
+5. I hate people who use light theme^*^
+
+    `* = Not really!`
 
 <hr/>
 
 ### Currently 🎯 on
 
-```python Full Stack Web Dev```
+```yaml
+Full Stack Web Dev
+```
 
 <hr/>
 
 ### Top :five: things I want to do before the 2022 ends
 
-- [x] Make my Github Profile 
+- [x] ~~ Make my Github Profile ~~
 - [ ] Publish My Profile Website
 - [ ] Publish Workout Book Keeping App
 - [ ] Learn to write Smart Contracts
