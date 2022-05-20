@@ -1,16 +1,23 @@
-### Hi there 👋
+###`👋 Hi There...` 
+<div align="center">
+<h2>I am Nischal</h2>
+<h1>A Designer & A Developer</h1> 
+</div>
+<br>
+Here are a few facts
+### `👦 About Me...`
+- I like sunshine
+- I am a vegeterian 
+- I ocasionally play guitar
+- I switch between tea and coffee
+- I hate you if you don't use dark theme
+<hr/>
+Here is what I am 
+###`📖 Currently Learing...`
 
-<!--
-**nischalon10/nischalon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%" borderradius="2em">
+    <tr>
+        <td>Hi</td>
+        <td>Hi</td>
+    </tr>
+</table>
