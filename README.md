@@ -16,7 +16,7 @@
 <hr/>
 <p>Here is what I am </p>
 
-`📖 Currently Learing...`
+<h2>`📖 Currently Learing...`</h2>
 <table width="100%" borderradius="2em">
     <tr>
         <td>Hi</td>
