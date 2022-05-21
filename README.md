@@ -25,13 +25,9 @@
 Full Stack Web Dev
 ```
 <hr/>
-.\
-.
-```
-work in progress...
-```
-.\
-.
+
+<img src="./Assets/loading.gif" align="center">
+
 <hr/>
 
 ### Top :five: things I want to do before 2022 ends (Not in order)
