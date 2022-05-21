@@ -22,7 +22,7 @@ Full Stack Web Dev
 
 ### Top :five: things I want to do before the 2022 ends
 
-- [x] ~~ Make my Github Profile ~~
+- [x] ~~Make my Github Profile~~
 - [ ] Publish My Profile Website
 - [ ] Publish Workout Book Keeping App
 - [ ] Learn to write Smart Contracts
