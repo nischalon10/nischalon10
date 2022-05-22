@@ -26,7 +26,7 @@ Full Stack Web Dev
 ```
 <hr/>
 
-<table align="center" width="100%" borderradius="3px solid">
+<table align="center" width="100%" borderradius="3px">
     <tr>
         <th><img src="./Assets/loading.gif" width="50%"></th>
     </tr>
