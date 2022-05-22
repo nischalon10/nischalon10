@@ -25,12 +25,9 @@
 Full Stack Web Dev
 ```
 <hr/>
+### Quick 📊
 
-<table align="center" width="100%" borderradius="3px">
-    <tr>
-        <th><img src="./Assets/loading.gif" width="50%"></th>
-    </tr>
-</table>
+<img src="./Assets/loading.gif" width="50%" align="center">
 
 
 <hr/>
