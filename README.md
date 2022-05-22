@@ -8,6 +8,8 @@
     </tr>
 </table>
 
+<hr/>
+
 ### Top :five: facts about me
 1. I love sunshine
 2. I am a vegetarian 
@@ -25,10 +27,14 @@
 Full Stack Web Dev
 ```
 <hr/>
+
 ### Quick 📊
 
-<img src="./Assets/loading.gif" width="50%" align="center">
-
+<table align="center" width="100vw">
+    <tr>
+        <td  border="1px solid" border-radius="10px" ><img src="./Assets/loading.gif"  align="center"></td>
+    </tr>
+</table>
 
 <hr/>
 
