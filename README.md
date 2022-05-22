@@ -45,6 +45,3 @@ Full Stack Web Dev
 - [ ] Publish My Profile Website and start bloggin on it!
 - [ ] Publish Workout Book Keeping App
 - [ ] Become web3 ready : Build a Dapp
-
-
-<hr/>
