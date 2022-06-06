@@ -32,7 +32,7 @@ Full Stack Web Dev
 
 <table align="center" width="100vw">
     <tr>
-        <td  border="1px solid" border-radius="10px" ><img src="./Assets/loading.gif"  align="center"></td>
+        <td border-radius="10px" ><img src="./Assets/loading.gif"  align="center"></td>
     </tr>
 </table>
 
@@ -41,7 +41,15 @@ Full Stack Web Dev
 ### Top :five: things I want to do before 2022 ends (Not in order)
 
 - [x] ~~Make my Github Profile~~
-- [ ] Finish one book every month `Currently Reading : Atomic Habits`
+- [x] ~~Become a reader~~
 - [ ] Publish My Profile Website and start bloggin on it!
 - [ ] Publish Workout Book Keeping App
 - [ ] Become web3 ready : Build a Dapp
+
+<hr/>
+ 
+### Currently 📖
+
+~~`Atomic Habits`~~
+`Million Dollar Habits`
+ 
