@@ -51,5 +51,5 @@ Full Stack Web Dev
 ### Currently 📖
 
 ~~`Atomic Habits`~~
-`Million Dollar Habits`
+`The Phsychology Of Money`
  
