@@ -51,5 +51,5 @@ Full Stack Web Dev
 ### Currently 📖
 
 ~~`Atomic Habits`~~
-`The Phsychology Of Money`
+`Finish What you Start`
  
