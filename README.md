@@ -54,5 +54,5 @@ June : ~~`Atomic Habits`~~
 ~~`Finish What you Start`~~
 
 July : `The 7 Habits of Highly Effective People ` 
-`101 Essays That Will Change The Way You Think`
+\ `101 Essays That Will Change The Way You Think`
  
