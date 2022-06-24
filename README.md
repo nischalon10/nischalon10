@@ -51,8 +51,8 @@ Full Stack Web Dev
 ### Currently 📖
 
 June : ~~`Atomic Habits`~~
-~~`Finish What you Start`~~
+ | ~~`Finish What you Start`~~
 
-July : `The 7 Habits of Highly Effective People ` 
-\ `101 Essays That Will Change The Way You Think`
+July : `The 7 Habits of Highly Effective People `  
+ | `101 Essays That Will Change The Way You Think`
  
