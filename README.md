@@ -50,6 +50,6 @@ Full Stack Web Dev
  
 ### Currently 📖
 
-~~`Atomic Habits`~~
+June : ~~`Atomic Habits`~~
 ~~`Finish What you Start`~~
  
