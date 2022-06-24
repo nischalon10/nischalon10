@@ -51,5 +51,5 @@ Full Stack Web Dev
 ### Currently 📖
 
 ~~`Atomic Habits`~~
-`Finish What you Start`
+~~`Finish What you Start`~~
  
