@@ -37,16 +37,6 @@ Full Stack Web Dev
 </table>
 
 <hr/>
-
-### Top :five: things I want to do before 2022 ends (Not in order)
-
-- [x] ~~Make my Github Profile~~
-- [x] ~~Become a reader~~
-- [ ] Publish My Profile Website and start bloggin on it!
-- [ ] Publish Workout Book Keeping App
-- [ ] Become web3 ready : Build a Dapp
-
-<hr/>
  
 ### Currently 📖
 
