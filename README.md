@@ -4,7 +4,7 @@
 ### Short 🔤
 <table align="center" >
     <tr>
-        <th>I am currently a raising sophomore at the University of South Florida (Go Bulls 🤘!!). I am studing Computer Science with Honors, aditionally my brain wanted to minor in   entrepreurship. I am originally from Bangalore and I can speak fluently in 4 languages but also know a little bit of Sanskrit. </th>
+        <th>I am currently a raising junior at the University of South Florida (Go Bulls 🤘!!). I am studing Computer Science with Honors, aditionally my brain wanted to minor in   entrepreurship. I am originally from Bangalore and I can speak fluently in 4 languages but also know a little bit of Sanskrit. </th>
     </tr>
 </table>
 
