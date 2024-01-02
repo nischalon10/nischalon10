@@ -1,48 +1,26 @@
 <img src="./Assets/Header.png" align="center" alt="Nischal Olety Nagesh => Designer & Developer">
-<hr/>
 
-### Short 🔤
-<table align="center" >
-    <tr>
-        <th>I am currently a raising junior at the University of South Florida (Go Bulls 🤘!!). I am studing Computer Science with Honors, aditionally my brain wanted to minor in   entrepreurship. I am originally from Bangalore and I can speak fluently in 4 languages but also know a little bit of Sanskrit. </th>
-    </tr>
-</table>
+<div align="center">
 
 <hr/>
 
-### Top :five: facts about me
-1. I love sunshine
-2. I am a vegetarian 
-3. I sing better in the bathroom
-4. I switch between tea and coffee
-5. I hate people who use light theme*
-
-    `* = Just Kidding!`
+### 🙋 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3B675&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1080&height=30&lines=I+am+a+Senior+at+the+University+of+South+Florida)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DAC6D&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1080&height=30&lines=I+am+studying+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3616A&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1080&height=30&lines=I+like+to+explore+cool+things+on+the+web+and+geek+out+on+them)](https://git.io/typing-svg)
 
 <hr/>
 
-### Currently 🎯 on
+### 💡 A Random Quote
 
-```yaml
-Full Stack Web Dev
-```
-<hr/>
-
-### Quick 📊
-
-<table align="center" width="100vw">
-    <tr>
-        <td border-radius="10px" ><img src="./Assets/loading.gif"  align="center"></td>
-    </tr>
-</table>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr/>
- 
-### Currently 📖
 
-June : ~~`Atomic Habits`~~
- | ~~`Finish What you Start`~~
+### 📊 Some Stats
 
-July : `The 7 Habits of Highly Effective People` 
- |  `101 Essays That Will Change The Way You Think`
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nischalon10&theme=onedark&hide_border=true&exclude_days=Sun%2CSat&background=EBEBEB00)](https://git.io/streak-stats)
+
+<!--START_SECTION:activity-->
+
+</div>
