@@ -21,6 +21,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nischalon10&theme=onedark&hide_border=true&exclude_days=Sun%2CSat&background=EBEBEB00)](https://git.io/streak-stats)
 
+</div>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1871418565) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
 2. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869150407) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
@@ -28,4 +30,3 @@
 4. ❌ Closed PR [#21](https://github.com/USFGDSC/git-open-source/pull/21) in [USFGDSC/git-open-source](https://github.com/USFGDSC/git-open-source)
 <!--END_SECTION:activity-->
 
-</div>
