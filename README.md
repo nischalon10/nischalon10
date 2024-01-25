@@ -32,10 +32,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1874844017) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
-2. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1871418565) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
-3. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869150407) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
-4. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869094355) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
+ 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1874844017) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
+ 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1871418565) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
+ 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869150407) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
+ 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869094355) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
 <!--END_SECTION:activity-->
     
   </tr>
