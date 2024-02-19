@@ -32,10 +32,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1874844017) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
-2. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1871418565) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
-3. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869150407) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
-4. 🗣 Commented on [#22](https://github.com/yagyesh-bobde/GenAI-Projects/issues/22#issuecomment-1869094355) in [yagyesh-bobde/GenAI-Projects](https://github.com/yagyesh-bobde/GenAI-Projects)
+1. 🎉 Merged PR [#2](https://github.com/nischalon10/swe-red-team/pull/2) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
+2. 🎉 Merged PR [#1](https://github.com/nischalon10/swe-red-team/pull/1) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
+3. ❌ Reopened PR [#1](https://github.com/nischalon10/swe-red-team/pull/1) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
+4. ❌ Closed PR [#1](https://github.com/nischalon10/swe-red-team/pull/1) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
 <!--END_SECTION:activity-->
     
   </tr>
