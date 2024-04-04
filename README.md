@@ -32,10 +32,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/nischalon10/swe-red-team/issues/5) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
-2. 🎉 Merged PR [#6](https://github.com/nischalon10/swe-red-team/pull/6) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
-3. 💪 Opened PR [#6](https://github.com/nischalon10/swe-red-team/pull/6) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
-4. ❗ Opened issue [#5](https://github.com/nischalon10/swe-red-team/issues/5) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
+1. 🎉 Merged PR [#1](https://github.com/USFGDSC/Resources/pull/1) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
+2. 🔒 Closed issue [#5](https://github.com/nischalon10/swe-red-team/issues/5) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
+3. 🎉 Merged PR [#6](https://github.com/nischalon10/swe-red-team/pull/6) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
+4. 💪 Opened PR [#6](https://github.com/nischalon10/swe-red-team/pull/6) in [nischalon10/swe-red-team](https://github.com/nischalon10/swe-red-team)
 <!--END_SECTION:activity-->
     
   </tr>
