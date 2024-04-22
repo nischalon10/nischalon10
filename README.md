@@ -32,10 +32,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/USFGDSC/Resources/issues/6) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
-2. 🗣 Commented on [#5](https://github.com/USFGDSC/Resources/pull/5#issuecomment-2046101036) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
-3. 🎉 Merged PR [#5](https://github.com/USFGDSC/Resources/pull/5) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
-4. 🎉 Merged PR [#4](https://github.com/USFGDSC/Resources/pull/4) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
+1. 🔒 Closed issue [#1](https://github.com/nischalon10/codelabtesting/issues/1) in [nischalon10/codelabtesting](https://github.com/nischalon10/codelabtesting)
+2. ❗ Opened issue [#1](https://github.com/nischalon10/codelabtesting/issues/1) in [nischalon10/codelabtesting](https://github.com/nischalon10/codelabtesting)
+3. ❗ Opened issue [#6](https://github.com/USFGDSC/Resources/issues/6) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
+4. 🗣 Commented on [#5](https://github.com/USFGDSC/Resources/pull/5#issuecomment-2046101036) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
 <!--END_SECTION:activity-->
     
   </tr>
