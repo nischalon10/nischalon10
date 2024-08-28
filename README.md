@@ -21,7 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nischalon10&theme=onedark&hide_border=true&exclude_days=Sun%2CSat&background=EBEBEB00)](https://git.io/streak-stats)
 
-
+![LeetCode Stats](https://leetcode.card.workers.dev/nischalolety?theme=dark&font=baloo&extension=null)
 
 <table>
   <tr>
