@@ -23,6 +23,7 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/nischalolety?theme=dark&font=baloo&extension=null)
 
+<hr/>
 
 ### ✨ Recent Activity ✨
 <table>
