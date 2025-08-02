@@ -30,10 +30,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
- 🔒 Closed issue [#1](https://github.com/nischalon10/codelabtesting/issues/1) in [nischalon10/codelabtesting](https://github.com/nischalon10/codelabtesting)
- ❗ Opened issue [#1](https://github.com/nischalon10/codelabtesting/issues/1) in [nischalon10/codelabtesting](https://github.com/nischalon10/codelabtesting)
- ❗ Opened issue [#6](https://github.com/USFGDSC/Resources/issues/6) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
- 🗣 Commented on [#5](https://github.com/USFGDSC/Resources/pull/5#issuecomment-2046101036) in [USFGDSC/Resources](https://github.com/USFGDSC/Resources)
+1. 🎉 Merged PR [#2](https://github.com/nischalon10/portfolio_manager_team17/pull/2) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+2. 🎉 Merged PR [#1](https://github.com/nischalon10/portfolio_manager_team17/pull/1) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+3. 💪 Opened PR [#2](https://github.com/nischalon10/portfolio_manager_team17/pull/2) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+4. 💪 Opened PR [#1](https://github.com/nischalon10/portfolio_manager_team17/pull/1) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
 <!--END_SECTION:activity-->
     
   </tr>
