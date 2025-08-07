@@ -30,10 +30,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/nischalon10/portfolio_manager_team17/pull/5) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
-2. 🎉 Merged PR [#2](https://github.com/nischalon10/portfolio_manager_team17/pull/2) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
-3. 🎉 Merged PR [#1](https://github.com/nischalon10/portfolio_manager_team17/pull/1) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
-4. 💪 Opened PR [#2](https://github.com/nischalon10/portfolio_manager_team17/pull/2) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+1. 🎉 Merged PR [#6](https://github.com/nischalon10/portfolio_manager_team17/pull/6) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+2. 🎉 Merged PR [#5](https://github.com/nischalon10/portfolio_manager_team17/pull/5) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+3. 🎉 Merged PR [#2](https://github.com/nischalon10/portfolio_manager_team17/pull/2) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+4. 🎉 Merged PR [#1](https://github.com/nischalon10/portfolio_manager_team17/pull/1) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
 <!--END_SECTION:activity-->
     
   </tr>
