@@ -30,10 +30,10 @@
   <tr>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/nuster1128/MemEngine/issues/2) in [nuster1128/MemEngine](https://github.com/nuster1128/MemEngine)
-2. ❗ Opened issue [#2](https://github.com/nuster1128/MemEngine/issues/2) in [nuster1128/MemEngine](https://github.com/nuster1128/MemEngine)
-3. 🎉 Merged PR [#8](https://github.com/nischalon10/portfolio_manager_team17/pull/8) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
-4. 🎉 Merged PR [#7](https://github.com/nischalon10/portfolio_manager_team17/pull/7) in [nischalon10/portfolio_manager_team17](https://github.com/nischalon10/portfolio_manager_team17)
+1. ❗ Opened issue [#4](https://github.com/nischalon10/rvwd/issues/4) in [nischalon10/rvwd](https://github.com/nischalon10/rvwd)
+2. ❗ Opened issue [#3](https://github.com/nischalon10/rvwd/issues/3) in [nischalon10/rvwd](https://github.com/nischalon10/rvwd)
+3. ❗ Opened issue [#2](https://github.com/nischalon10/rvwd/issues/2) in [nischalon10/rvwd](https://github.com/nischalon10/rvwd)
+4. 🔒 Closed issue [#2](https://github.com/nuster1128/MemEngine/issues/2) in [nuster1128/MemEngine](https://github.com/nuster1128/MemEngine)
 <!--END_SECTION:activity-->
     
   </tr>
